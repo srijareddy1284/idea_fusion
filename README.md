@@ -6,11 +6,11 @@ Idea Fusion is a collaborative platform designed to bring people together to sha
 ---
 
 ## 🚀 Features  
-- 🧠 Idea submission by users  
-- 🤝 Collaboration on shared ideas  
-- 💬 Discussion and feedback system  
-- ⭐ Idea rating or voting (optional)  
-- 🔍 Search and filter ideas  
+-  Idea submission by users  
+-  Collaboration on shared ideas  
+-  Discussion and feedback system  
+-  Idea rating or voting (optional)  
+-  Search and filter ideas  
 
 ---
 
@@ -34,11 +34,6 @@ Idea Fusion is a collaborative platform designed to bring people together to sha
 - Promote teamwork and collaboration  
 - Support innovation and creativity  
 - Help users develop better solutions  
-
----
-
-## 📷 Screenshots  
-(Add screenshots of your project here)
 
 ---
 
